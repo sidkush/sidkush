@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kushawaha</h1>
 <h3 align="center">A passionate Engineer with skills in GenAI, AI/ML, Data Visualization</h3>
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ0Y3J0bDlnaDlmZjhod3NzaXAyZXcydTdydXRxZGE0bW04b2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ0Y3J0bDlnaDlmZjhod3NzaXAyZXcydTdydXRxZGE0bW04b2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 - 🌱 I’m currently learning **LLM, AI, MLOps**
 
